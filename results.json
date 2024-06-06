@@ -15,7 +15,11 @@
       16,
       32
     ]
+
   },
-  "test_NERNet": "NameError(\"name 'best_model_cfg' is not defined\")",
+  "test_NERNet": {
+    "f1": 0.9021657870613066,
+    "f1_wo_o": 0.7389201210529006
+  },
   "test_glove": "NameError(\"name 'get_emb_matrix' is not defined\")"
 }
