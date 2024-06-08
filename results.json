@@ -1,5 +1,11 @@
 {
-  "test_read_data": "TypeError(\"object of type 'function' has no len()\")",
+  "test_read_data": {
+    "lengths": [
+      1750,
+      250,
+      500
+    ]
+  },
   "test_vocab": {
     "length": 7163,
     "tag2id_length": 7,
