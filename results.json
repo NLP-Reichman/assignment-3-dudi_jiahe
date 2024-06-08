@@ -21,11 +21,10 @@
       16,
       32
     ]
-
   },
   "test_NERNet": {
-    "f1": 0.9021657870613066,
-    "f1_wo_o": 0.7389201210529006
+    "f1": 0.9037899327694939,
+    "f1_wo_o": 0.7318619019745635
   },
   "test_glove": "NameError(\"name 'get_emb_matrix' is not defined\")"
 }
