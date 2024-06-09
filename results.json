@@ -26,8 +26,5 @@
     "f1": 0.9037899327694939,
     "f1_wo_o": 0.7318619019745635
   },
-    "test_glove": {
-    "f1": 0.9099499113234251,
-    "f1_wo_o": 0.7605085811693107
-  }
+  "test_glove": "NameError(\"name 'get_emb_matrix' is not defined\")"
 }
